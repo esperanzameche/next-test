@@ -42,7 +42,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className={styles.secondary}
           >
-            Read our docs
+            Hola mundo soy Mercedes
           </a>
         </div>
       </main>
